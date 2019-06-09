@@ -17,6 +17,6 @@ function increaseRankBy(n){
 }
 
 function deepestChild(){
-  document.document.querySelector('#nested .target');
+  document.document.querySelector('grand-node .target');
   
 }
