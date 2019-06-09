@@ -7,5 +7,5 @@ function nestedTarget(target){
 }
 
 function increaseRankBy(n){
-  return parseInt()
+  return parseInt(querySelector.ranked-list)+n;
 }
